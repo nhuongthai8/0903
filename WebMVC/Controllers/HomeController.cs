@@ -15,7 +15,7 @@ namespace WebMVC.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Trang gioi thieu.";
+            ViewBag.Message = "Trang gioi thieu123.";
 
             return View();
         }
