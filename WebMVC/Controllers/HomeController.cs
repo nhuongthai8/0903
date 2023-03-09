@@ -22,7 +22,7 @@ namespace WebMVC.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Trang lien he.";
+            ViewBag.Message = "Trang lien he123.";
 
             return View();
         }
