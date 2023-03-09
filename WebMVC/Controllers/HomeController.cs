@@ -15,14 +15,14 @@ namespace WebMVC.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Trang About.";
+            ViewBag.Message = "Trang gioi thieu.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Trang contact.";
+            ViewBag.Message = "Trang lien he.";
 
             return View();
         }
